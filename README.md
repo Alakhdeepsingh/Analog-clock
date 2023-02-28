@@ -1,2 +1,2 @@
-# Movie App
-Movie App in HTML,CSS,JavaScript
+# Analog Clock
+Analog Clock in HTML,CSS,JavaScript
