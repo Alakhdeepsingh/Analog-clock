@@ -1,2 +1,2 @@
-# 50-days-50-projects
-50-days-50-projects in HTML,CSS,JavaScript
+# Movie App
+Movie App in HTML,CSS,JavaScript
